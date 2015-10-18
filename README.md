@@ -1,2 +1,2 @@
-# Kodigo
-A note taking app for sys admins and developers
+# Flask Blueprints Template
+A template for a Flask app using Blueprints
